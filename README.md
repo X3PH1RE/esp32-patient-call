@@ -21,10 +21,11 @@ Built at the **Claude Community Calicut Impact Lab Hackathon**.
 
 ## Final product
 
-<!-- Add a photo of the finished device, e.g. docs/images/final-product.jpg -->
 ![Final product](docs/images/final-product.jpg)
 
-*Photo coming soon.*
+The device in a 3D-printed case with the OLED, and the settings web page open on the laptop.
+
+**Demo video:** [docs/images/demo.mp4](docs/images/demo.mp4)
 
 ## Components
 
