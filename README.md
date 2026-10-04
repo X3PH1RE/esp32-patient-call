@@ -1,4 +1,4 @@
-# Patient Call System
+# CareRing
 
 An ESP32-based call device for patients who can't easily speak or press multiple buttons. A single touch sensor reads tap patterns, shows the request on an OLED display, and **emails the caregiver** so help can come even from another room.
 
